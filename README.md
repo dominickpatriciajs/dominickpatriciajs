@@ -25,17 +25,7 @@ Currently working on semi-supervised deep learning frameworks for UAV image regi
 |---------|-------------|-------|
 | [STN Image Registration](link) | Semi-supervised framework for multitemporal agricultural UAV image registration | PyTorch, OpenCV |
 | [Spanish-Shipibo-Konibo NMT](link) | Low-resource neural machine translation for indigenous language preservation | HuggingFace, NLLB-200 |
-| [Paper Reimplementation](link) | Reimplementation of [Paper Name] from scratch | PyTorch |
-| [Crop Classification Pipeline](link) | End-to-end ML pipeline with deployment | FastAPI, Docker, PyTorch |
 
-### 💻 Software Development
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Project Name](link) | Brief description | Next.js, Tailwind CSS, PostgreSQL |
-| [Project Name](link) | Brief description | Next.js, TypeScript |
-
----
 
 ## 🛠️ Tech Stack
 
