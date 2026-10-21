@@ -13,7 +13,6 @@ Currently working on semi-supervised deep learning frameworks for UAV image regi
 - Computer Vision & Image Registration
 - Precision Agriculture & Remote Sensing
 - Low-resource Neural Machine Translation
-- Indigenous Language Preservation
 
 ---
 
